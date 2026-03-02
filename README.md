@@ -1,322 +1,259 @@
-# Hi there, I'm Umang Jaiswal N 👋
-
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-umangjaiswal.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-jaiswal-n)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umang2468jaiswal@gmail.com)
-  
+
+```
+██╗   ██╗███╗   ███╗ █████╗ ███╗   ██╗ ██████╗ 
+██║   ██║████╗ ████║██╔══██╗████╗  ██║██╔════╝ 
+██║   ██║██╔████╔██║███████║██╔██╗ ██║██║  ███╗
+██║   ██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║
+╚██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝
+ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+```
+
+### `> Building technology that matters. 🚀`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI%2FML+Developer+%26+Full-Stack+Engineer;GenAI+%7C+FinTech+%7C+Healthcare+Tech;Turning+data+into+decisions+%F0%9F%A7%A0;Let%27s+build+something+impactful+together+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-umangjaiswal.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-jaiswal-n)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umang2468jaiswal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umangjzx)
+
+<br/>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=umangjzx&icon=2&color=6)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/umangjzx?style=social)
+
 </div>
 
-## 🚀 About Me
+---
 
-I'm a **tech-driven graduate** specializing in **M.Sc. Decision and Computing Sciences** from **Coimbatore Institute of Technology** (CGPA: 8.2). I build end-to-end solutions—from full-stack AI applications and ML pipelines to REST APIs, data systems, and interactive dashboards—with a focus on creating systems that are scalable, efficient, and reliable.
+## 🧬 `whoami`
 
 ```python
 class UmangJaiswal:
     def __init__(self):
-        self.role = "AI/ML Developer & Full-Stack Engineer"
-        self.location = "Coimbatore, Tamil Nadu, India"
-        self.education = "M.Sc. Decision & Computing Sciences"
-        self.current_focus = ["AI for Healthcare", "FinTech Solutions", "Social Impact Tech"]
-        self.collaboration_interests = ["Open Source", "AI Ethics", "Community Service"]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something impactful together 🚀")
+        self.name       = "Umang Jaiswal N"
+        self.role       = "AI/ML Developer & Full-Stack Engineer"
+        self.location   = "Coimbatore, Tamil Nadu, India 🇮🇳"
+        self.education  = "M.Sc. Decision & Computing Sciences @ CIT (CGPA: 8.2)"
+        self.focus      = ["GenAI for Healthcare", "FinTech ML", "Social Impact Tech"]
+        self.interests  = ["AI Ethics", "Open Source", "Community Service", "⚽ Football"]
+        self.available  = True  # open to opportunities!
+
+    def philosophy(self) -> str:
+        return "Build. Ship. Iterate. Impact."
 
 me = UmangJaiswal()
-me.say_hi()
 ```
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Currently Working On
 
-- 🧠 **AI for Healthcare**: Building GenAI-powered rehabilitation tools for neurological conditions
-- 📈 **FinTech Innovation**: Developing non-linear equity valuation systems using machine learning
-- 🌍 **Social Impact**: Creating community-driven platforms powered by intelligent automation
-- 📊 **Data Science Research**: Published work on phishing detection using hybrid AI approaches
+| 🔬 Project | 📌 Focus |
+|---|---|
+| 🎵 **COGNISYNC** | GenAI music therapy for neurorehabilitation |
+| 📈 **Equity Valuation Engine** | Non-linear ML for stock pricing |
+| 🌍 **Community Platform** | AI-powered resource sharing & automation |
+| 🔐 **Phishing Detection Research** | Published hybrid AI cybersecurity system |
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements
 
-| Achievement | Event/Organization | Year |
-|-------------|-------------------|------|
-| 🥇 **Winner** | Data Science Hackathon, Techgyan IIT Madras | 2024 |
-| 🏅 **Finalist** | Hackdemia, Bangalore | 2024 |
-| 🏅 **Finalist** | Spark Grant Seed Fund, CIT | 2024 |
-| 🥇 **Winner** | Player 456 Revenge, Melinia, CIT | 2024 |
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🥇  Winner   · Data Science Hackathon, Techgyan @ IIT Madras  │
+│  🏅  Finalist · Hackdemia, Bangalore                            │
+│  🌱  Finalist · Spark Grant Seed Fund, CIT                      │
+│  🥇  Winner   · Player 456 Revenge, Melinia @ CIT               │
+│  📄  Published · IJRMSET 2025 — Phishing Detection via Hybrid AI│
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## 💼 Featured Projects
 
-### 🎵 [COGNISYNC: GenAI Music Therapy Platform](link)
-**Healthcare • Neurorehabilitation • Generative AI**
+<details>
+<summary><b>🎵 COGNISYNC — GenAI Music Therapy Platform</b> <code>Healthcare · GenAI · Neurorehabilitation</code></summary>
+<br/>
 
-Personalized AI-generated music and rhythm therapy for stroke & Parkinson's rehabilitation.
+> Personalized AI-generated music & rhythm therapy for stroke and Parkinson's rehabilitation.
 
-- **Tech Stack**: Tone.js, Hugging Face API, Python, Flask, SQLite
-- **Key Features**: 
-  - Adaptive therapy beats based on patient progress
-  - AI-guided rhythm workflows with real-time feedback
-  - Secure patient progress dashboards
-  - Cloud-based therapy session management
-- **Impact**: Bridging technology and healthcare for neurological rehabilitation
+- 🧠 Adaptive therapy beats that evolve with patient progress
+- 📊 Secure patient dashboards with real-time feedback
+- ☁️ Cloud-based session management
 
----
+**Stack:** `Tone.js` `Hugging Face API` `Python` `Flask` `SQLite`
 
-### 📉 [Stock Market Prediction Engine](link)
-**Finance • Time Series • Deep Learning**
+</details>
 
-LSTM and ensemble models for predicting stock market trends with high accuracy.
+<details>
+<summary><b>📈 Stock Market Prediction Engine</b> <code>Finance · Deep Learning · Time Series</code></summary>
+<br/>
 
-- **Tech Stack**: Python, TensorFlow, Keras, pandas, NumPy
-- **Models**: LSTM, GRU, Ensemble Methods
-- **Features**: 
-  - Real-time market data integration
-  - Multi-horizon forecasting
-  - Risk analysis dashboards
-  - Backtesting framework
+> LSTM & ensemble models for multi-horizon stock market forecasting.
 
----
+- 📡 Real-time market data integration
+- 🔁 Backtesting framework with risk analysis dashboards
 
-### 💰 [Non-Linear Equity Valuation System](link)
-**FinTech • Quantitative Analysis • ML**
+**Stack:** `TensorFlow` `Keras` `LSTM` `GRU` `Pandas` `NumPy`
 
-Advanced ML-based equity pricing model using non-linear regression techniques.
+</details>
 
-- **Tech Stack**: Python, scikit-learn, XGBoost, matplotlib
-- **Capabilities**:
-  - Feature engineering for financial metrics
-  - Non-linear regression pipelines
-  - Comparative valuation analysis
-  - Interactive financial visualizations
+<details>
+<summary><b>🧠 Mental Health AI Chatbot</b> <code>NLP · Healthcare · Explainable AI</code></summary>
+<br/>
 
----
+> Mood-tracking chatbot with SHAP-based explainability and crisis detection.
 
-### 🧠 [Mental Health AI Chatbot](link)
-**AI • Healthcare • Explainable AI**
+- 💬 Sentiment analysis and conversation history tracking
+- 🔍 Transparent AI predictions via SHAP values
+- 🚨 Crisis detection with resource recommendations
 
-Intelligent chatbot with mood tracking and SHAP-based explainability for mental health support.
+**Stack:** `Python` `NLTK` `spaCy` `SHAP` `Flask`
 
-- **Tech Stack**: Python, NLP (NLTK, spaCy), SHAP, Flask
-- **Features**:
-  - Sentiment analysis and mood tracking
-  - Explainable AI predictions (SHAP values)
-  - Conversation history analysis
-  - Crisis detection and resource recommendations
+</details>
 
----
+<details>
+<summary><b>💰 Non-Linear Equity Valuation System</b> <code>FinTech · ML · Quantitative Analysis</code></summary>
+<br/>
 
-### 📊 [Lending Club Loan Prediction System](link)
-**Data Science • Credit Risk • Calibration Analysis**
+> Advanced ML pipeline for equity pricing using non-linear regression techniques.
 
-XGBoost-based loan default prediction with probability calibration.
+- 📐 Feature engineering for financial metrics
+- 📊 Comparative valuation analysis & interactive visualizations
 
-- **Tech Stack**: Python, XGBoost, LightGBM, scikit-learn
-- **Features**:
-  - Advanced feature engineering
-  - Calibrated probability outputs
-  - SHAP interpretability
-  - Risk stratification dashboard
+**Stack:** `Python` `scikit-learn` `XGBoost` `matplotlib`
 
----
+</details>
 
-### ♻️ [Community Resource Sharing Platform](link)
-**Social Impact • AI • Community Service**
+<details>
+<summary><b>✋ Real-Time Sign Language Translator</b> <code>Computer Vision · Accessibility · Deep Learning</code></summary>
+<br/>
 
-AI-powered platform for community resource sharing with intelligent auto-categorization.
+> OpenCV + MediaPipe powered real-time gesture recognition system.
 
-- **Tech Stack**: React, Flask, PostgreSQL, NLP
-- **Features**:
-  - AI-based item categorization
-  - Location-based matching
-  - User reputation system
-  - Real-time availability tracking
+- 👁️ Multi-language sign support
+- 📱 Mobile-friendly with custom training pipeline
 
----
+**Stack:** `Python` `OpenCV` `TensorFlow` `MediaPipe`
 
-### ✋ [Real-Time Sign Language Translator](link)
-**Computer Vision • Accessibility • Deep Learning**
+</details>
 
-OpenCV and TensorFlow-powered real-time sign language recognition system.
+<details>
+<summary><b>♻️ Community Resource Sharing Platform</b> <code>Social Impact · AI · Full-Stack</code></summary>
+<br/>
 
-- **Tech Stack**: Python, OpenCV, TensorFlow, MediaPipe
-- **Capabilities**:
-  - Real-time gesture recognition
-  - Multi-language sign support
-  - Mobile-friendly interface
-  - Training pipeline for custom signs
+> AI-powered platform for community resource sharing with intelligent auto-categorization.
 
----
+- 📍 Location-based matching & user reputation system
+- 🔄 Real-time availability tracking
 
-### 🚦 [Traffic Management System](link)
-**Systems Programming • Database • C**
+**Stack:** `React` `Flask` `PostgreSQL` `NLP`
 
-Efficient traffic management system built in C with PostgreSQL backend.
+</details>
 
-- **Tech Stack**: C, PostgreSQL, Data Structures
-- **Features**:
-  - Real-time traffic flow optimization
-  - Vehicle tracking system
-  - Database-driven analytics
-  - Efficient memory management
+<details>
+<summary><b>📊 Lending Club Loan Prediction System</b> <code>Credit Risk · Data Science · Calibration</code></summary>
+<br/>
+
+> XGBoost-based loan default predictor with probability calibration and explainability.
+
+**Stack:** `XGBoost` `LightGBM` `scikit-learn` `SHAP`
+
+</details>
+
+<details>
+<summary><b>🖧 Graph-Based Social Network Analyzer</b> <code>Graph Theory · Algorithms · Visualization</code></summary>
+<br/>
+
+> Social network analysis implementing Dijkstra, BFS, DFS, and PageRank with D3.js visualization.
+
+**Stack:** `Python` `Flask` `NetworkX` `D3.js`
+
+</details>
 
 ---
 
-### 🖧 [Graph-Based Social Network Analyzer](link)
-**Graph Theory • Algorithms • Web Development**
+## 🛠️ Tech Stack
 
-Social network analysis tool implementing graph algorithms with Flask frontend.
-
-- **Tech Stack**: Python, Flask, NetworkX, D3.js
-- **Algorithms**: Dijkstra, BFS, DFS, PageRank
-- **Features**:
-  - Community detection
-  - Influence analysis
-  - Network visualization
-  - Centrality measures
-
----
-
-## 🛠️ Technical Arsenal
-
-### Languages
+### 🤖 AI / ML / Data Science
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-ExplainableAI-9c27b0?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### NLP & Text Processing
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![TextBlob](https://img.shields.io/badge/TextBlob-NLP-blue?style=flat-square)
-
-### Web Development
+### 🌐 Web & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Databases & Cloud
+### 🗄️ Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Visualization & Analytics
+### 📊 Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=plotly&logoColor=white)
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+### 🔤 Languages
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 📚 Publications
+## 📚 Publication
 
-**[Phishing Detection and Cybersecurity: A Hybrid AI Approach for Real-Time Threat Analysis](link)**  
-*International Journal of Research in Modern Science and Engineering Technology (IJRMSET), 2025*
-
-> Developed a hybrid AI model combining machine learning and rule-based systems for real-time phishing detection and cybersecurity threat analysis.
-
----
-
-## 💼 Professional Experience
-
-### 📊 Data Analytics Intern | Codtech IT Solutions
-*May 2025 – June 2025*
-
-- Analyzed real business datasets to derive actionable insights
-- Performed data cleaning, transformation, and SQL-based reporting
-- Created interactive dashboards for stakeholder presentations
-- Gained hands-on experience in end-to-end data analytics workflows
+> **[Phishing Detection and Cybersecurity: A Hybrid AI Approach for Real-Time Threat Analysis](link)**  
+> *IJRMSET · International Journal of Research in Modern Science and Engineering Technology, 2025*  
+> Hybrid ML + rule-based system for real-time phishing and cybersecurity threat detection.
 
 ---
 
-## 🎓 Certifications
+## 💼 Experience & Certifications
 
-| Certification | Platform | Skills |
-|---------------|----------|--------|
-| Power BI | Be10x & OfficeMaster | Data Visualization, DAX |
-| Storytelling with Power BI | WsCube Tech | Business Intelligence |
-| Business Analysis & Process Management | Coursera | Strategic Analysis |
+**📊 Data Analytics Intern — Codtech IT Solutions** *(May–Jun 2025)*  
+End-to-end analytics workflows: data cleaning, SQL reporting, and stakeholder dashboards.
 
----
-
-## 🌟 Leadership & Community Involvement
-
-### 🎯 Current Roles
-
-**Campus Ambassador** | Corizo Edutech  
-*Representing Corizo on campus, promoting educational programs, and supporting student outreach initiatives*
-
-**Rotary Foundation Chair** | Rotaract Club of Coimbatore SmartCity  
-*Spearheading community service initiatives, fundraising activities, and Rotary Foundation programs*
-
-**Public Relations Officer (PRO) – Head** | Datalytics Club, CIT  
-*Directing PR strategy, handling outreach, and coordinating events to promote analytics and data science awareness*
-
-### 🎪 What I Bring to Teams
-
-- **Leadership & Strategic Thinking**: Experience leading clubs and managing cross-functional teams
-- **Communication**: Public speaking and interpersonal skills honed through community engagement
-- **Collaboration**: Strong team player with experience in hackathons and group projects
-- **Adaptability**: Quick learner who thrives in dynamic, fast-paced environments
+| 🎓 Certification | Platform |
+|---|---|
+| Power BI | Be10x & OfficeMaster |
+| Storytelling with Power BI | WsCube Tech |
+| Business Analysis & Process Management | Coursera |
 
 ---
 
-## 🎯 Areas of Interest
+## 🌟 Leadership
 
 ```
-├── 🧠 AI for Social Good
-│   ├── Mental Health Applications
-│   ├── Healthcare Technology
-│   └── Accessibility Solutions
-│
-├── 💰 Financial Technology
-│   ├── Algorithmic Trading
-│   ├── Risk Analysis
-│   └── Equity Valuation
-│
-├── 🌍 Community Impact
-│   ├── Open Source Development
-│   ├── Social Service Projects
-│   └── Resource Sharing Platforms
-│
-└── 📊 Data Science & Analytics
-    ├── Explainable AI
-    ├── Data Storytelling
-    └── Predictive Modeling
+🎯  Campus Ambassador      · Corizo Edutech
+🌍  Rotary Foundation Chair · Rotaract Club of Coimbatore SmartCity
+📢  PRO Head               · Datalytics Club, CIT
 ```
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -324,44 +261,32 @@ Social network analysis tool implementing graph algorithms with Flask frontend.
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=umangjzx&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umangjzx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umangjzx&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Open to Collaborate On
 
-I'm always excited to collaborate on projects involving:
-- 🤖 AI/ML applications for social impact
-- 💹 FinTech and quantitative analysis
-- 🏥 Healthcare technology
-- 📊 Data science and analytics
-- 🌐 Open source contributions
-
-**Feel free to reach out if you want to:**
-- Collaborate on interesting projects
-- Discuss AI ethics and responsible technology
-- Talk about football (⚽ big fan!)
-- Share ideas on community service initiatives
-
-<div align="center">
-
-### 📫 Get in Touch
-
-[![Email](https://img.shields.io/badge/Email-umang2468jaiswal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umang2468jaiswal@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-jaiswal-n)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-umangjaiswal.vercel.app)
-[![Phone](https://img.shields.io/badge/Phone-8098468572-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918098468572)
-
-</div>
+```
+🤖  AI/ML for social impact          💹  FinTech & quantitative analysis
+🏥  Healthcare technology            📊  Data science & analytics
+🌐  Open source contributions        ⚽  Talking football anytime
+```
 
 ---
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=umangjzx&icon=2&color=6)
+### 📫 Reach Me
 
-### ⭐ From [umangjzx](https://github.com/umangjzx) | *Building technology that matters* 🚀
+[![Email](https://img.shields.io/badge/umang2468jaiswal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umang2468jaiswal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-jaiswal-n)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-umangjaiswal.vercel.app)
+
+<br/>
+
+*— From [umangjzx](https://github.com/umangjzx) · Building technology that matters 🚀*
 
 </div>
